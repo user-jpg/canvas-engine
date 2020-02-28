@@ -7,6 +7,7 @@ public class CanvasPath {
         }
   
   
+        Context mContext;
   
         public void Path() {
 
